@@ -16,4 +16,4 @@ Tess Griffin, Andrew Carmer, Kyle Henson
 * RSpec
 
 ###Production
-* Pick-a-Flick.herokuapp.com
+* [pick-a-flick.herokuapp.com]
