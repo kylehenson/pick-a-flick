@@ -9,11 +9,11 @@
 Tess Griffin, Andrew Carmer, Kyle Henson
 
 ###Tech Stack:
-*Ruby
-*Rails
-*Javascript
-*jQuery
-*RSpec
+* Ruby
+* Rails
+* Javascript
+* jQuery
+* RSpec
 
-
+###Production
 * Pick-a-Flick.herokuapp.com
